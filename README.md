@@ -1,7 +1,7 @@
 # LukasS-Devv 🍂
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-17-blue?style=flat-square" alt="Age">
+  <img src="https://img.shields.io/badge/Age-18-blue?style=flat-square" alt="Age">
   <img src="https://img.shields.io/badge/Location-Almada,%20Portugal%20🇵🇹-red?style=flat-square" alt="Location">
   <img src="https://img.shields.io/badge/Status-Building%20Side%20Projects-green?style=flat-square" alt="Status">
 </p>
@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mim
 
-Chamo-me Lucas, sou um **desenvolvedor**, tenho 17 anos e vivo em Almada, Portugal. O meu foco é construir coisas reais que funcionem na prática, e aprender coisa novas.
+Chamo-me Lucas, sou um **desenvolvedor**, tenho 18 anos e vivo em Almada, Portugal. O meu foco é construir coisas reais que funcionem na prática, e aprender coisa novas.
 
 Atualmente, estou a frequentar um curso profissional de programação e passo o tempo livre a desenvolver projetos pessoais.
 

@@ -10,11 +10,19 @@
 
 ### 🚀 Sobre Mim
 
-Chamo-me Lucas, sou um **desenvolvedor**, tenho 18 anos e vivo em Almada, Portugal. O meu foco é construir coisas reais que funcionem na prática, e aprender coisa novas.
+Chamo-me Lucas, sou **estudante de Engenharia de Software** e **desenvolvedor Full-Stack & Mobile**, tenho 18 anos e vivo em Almada, Portugal. O meu foco é construir coisas reais que funcionem na prática, e aprender coisas novas pelo caminho.
 
-Atualmente, estou a frequentar um curso profissional de programação e passo o tempo livre a desenvolver projetos pessoais.
+Atualmente frequento um curso profissional de programação e passo o tempo livre a desenvolver projetos pessoais — apps mobile, aplicações web e ferramentas desktop, quase sempre em **TypeScript**.
 
-* **O meu projeto favorito:** 🎲 [OPVTT](https://opvtt-da1a6.web.app/) — Um *virtual tabletop* (VTT) gratuito para RPG online com multiplayer em tempo real, *Fog of War* e fichas de personagem dinâmicas. Desenvolvido em HTML, CSS e JS. com integração de serviços como **Firebase** para hosting e armazenamento de dados e **ImageKit** para armazenamento de imagens.
+---
+
+### 📦 Projetos
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| 🎲 **[OPVTT](https://github.com/LukassDev/OPVTT)** | *Virtual tabletop* (VTT) open-source, uma alternativa gratuita às plataformas caras de RPG de mesa. Salas guardadas em SQLite, camadas de imagem, tokens, *Fog of War*, fichas de personagem privadas, biblioteca de media, janela de público independente e transmissão em LAN via WebRTC. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| 🎧 **[Lify](https://github.com/LukassDev/Lify)** | App de música mobile com playlists, favoritos, histórico, fila de reprodução, reprodução offline e backups. Biblioteca guardada localmente no dispositivo, interface em PT/EN e backend Node.js próprio para resolver e encaminhar áudio. Projeto educacional. [Versão web](https://lifymusic.web.app) | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| 📚 **[OStudy](https://github.com/LukassDev/OStudy)** | Plataforma *local-first* para organizar o estudo: espaços por disciplina, planos, tópicos, calendário, avaliações, recursos e um **tutor de IA** (via OpenRouter). Disponível em Android, iOS e Web, com interface em 6 idiomas. | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
 ---
 
@@ -22,25 +30,18 @@ Atualmente, estou a frequentar um curso profissional de programação e passo o 
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens & Front-end** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & DevObs** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **A Aprender** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Linguagens** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Front-end & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Desktop** | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
+| **Backend & Dados** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **DevOps & Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![EAS](https://img.shields.io/badge/EAS%20Build-000020?style=flat-square&logo=expo&logoColor=white) |
+| **A Aprender** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 
 ---
 
 ### 📜 Certificações
 
 * 🎓 **Cisco Networking Academy** — *Networking Basics* (Junho de 2026)
-
----
-
-### 🧠 Fun Facts
-
-* 🇯🇵 Grande fã da cultura japonesa.
-* 🎧 **Hobbies:** Anime, música e gaming.
-* 🔥 **Persona 3** é a minha obra favorita.
-
----
 
 ### 🤝 Vamos conversar?
 
